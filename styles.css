@@ -1,0 +1,166 @@
+#pageOne	
+	{
+		background-image: url("https://www.colourbox.com/preview/4032829-abstract-grunge-background-scratches-dirt-rust-and-spots.jpg");
+	}
+#pageTwo
+	{
+		background-image: url("http://i.imgur.com/YtOinoC.jpg");
+	}
+#pageThree
+	{
+		background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/ff/Fire02.jpg");
+	}
+#pageFour
+	{
+		background-image: url("http://thewallpaper.co/wp-content/uploads/2016/03/nature-sky-clouds-cloudy-hd-city-wallpapers-places-landscape-beautiful-place-wallpaper-widescreen-images-city-images-for-windows-large-places-background-1600x1024.jpg")
+	}
+#profilepicture
+	{
+		margin-left:25px;
+	}
+#koda
+	{
+		margin-right:25px;
+	}
+#olive
+	{
+		margin-right:25px;
+	}
+#nav
+	{
+		font-size:25px;
+		background:rgba(163,122,46,.85);
+		border-style:inset;
+		border-width:2px;
+		border-color:black;
+		margin-top:;
+		margin-bottom:20px;
+	}
+#nav2
+	{
+		font-size:25px;
+		background:rgba(60,190,200,.85);
+		border-style:inset;
+		border-width:2px;
+		border-color:black;
+		margin-top:;
+		margin-bottom:20px;
+	}
+#nav3
+	{
+		font-size:25px;
+		background:rgba(238,123,41,.85);
+		border-style:inset;
+		border-width:2px;
+		border-color:black;
+		margin-top:;
+		margin-bottom:20px;
+	}
+#nav4
+	{
+		font-size:25px;
+		background:rgba(199,188,219,.85);
+		border-style:inset;
+		border-width:2px;
+		border-color:black;
+		margin-top:;
+		margin-bottom:20px;
+	}	
+.nav-link
+	{
+		color:white;
+		text-shadow: 4px 4px 8px #000000;
+	}
+.heading
+	{
+		margin-left:25px;
+		margin-right:25px;
+		background:rgba(11,11,11,.4);
+		color:white;
+		font-size:80px;
+		font-family:almendra;
+		text-shadow: 6px 6px black;
+		text-align:center;
+		border-style:solid;
+		border-width:4px;
+		border-color:white;
+	}
+.secondheading
+	{
+		margin-left:25px;
+		margin-right:25px;
+		margin-bottom:25px;
+		color:white;
+		font-size:50px;
+		font-family:almendra;
+		text-shadow: 4px 4px black;
+		text-align:center;
+		border-style:dashed;
+		border-width:4px;
+		border-color:white;
+		background:rgba(11,11,11,.4);
+	}
+
+.paragraph1, .paragraph2, .paragraph3
+	{
+		color:white;
+		font-size:30px;
+		text-align:left;
+		font-family:arbutus slab;
+		background:rgba(11,11,11,.4);
+		border:4px solid white;
+		padding-top:10px;
+		padding-right:20px;
+		padding-left: 20px;
+		padding-bottom:10px;
+		margin-left:325px;
+		margin-bottom:20px;
+		margin-right:25px;
+	}
+.paragraph2
+	{
+		margin-left:325px;
+		margin-right:560px;
+	}
+.paragraph3
+	{
+		font-size:20px;
+		margin-left:25px;
+		margin-right:1220px;
+		margin-top:25px;
+	}
+.container
+input[type=text], select, textarea 
+	{
+    	width: 100%;
+    	padding: 12px;
+    	border: 1px solid #ccc;
+    	border-radius: 4px;
+    	box-sizing: border-box;
+    	margin-top: 6px;
+    	margin-bottom: 16px;
+    	resize: vertical;
+	}
+
+input[type=submit] 
+	{
+    	background-color:rgba(53,47,238,1);
+    	color: white;
+    	padding: 12px 20px;
+    	border: none;
+    	border-radius: 4px;
+    	cursor: pointer;
+    }
+
+.container 
+	{
+    	border-radius: 5px;
+    	background-color:rgba(199,188,219,.7);
+    	padding: 20px;
+    	margin-top:25px;
+    	margin-bottom:25px;
+	}
+img
+	{
+		border:4px solid white;
+	}
